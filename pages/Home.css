@@ -1,0 +1,16 @@
+.circle-image {
+    width: 25%;
+    min-width: 300px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.home-container {
+    margin-top: 96px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25%;
+}
